@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Project Name: RDPcheck 2021
+# Project Name: RDPloit - 2021
 # Coded By: @souravbaghz
 
 #Colours
